@@ -10,7 +10,7 @@
   Liabilities:Simon Elvery
 
 2016-02-24 * Dominos Pizza
-  Expenses:Catering			$100.00
+  Expenses:Catering			$94.65
   Liabilities:Daniel Angus
 
 2016-02-24 * Donations from first event
@@ -34,19 +34,19 @@
   Expenses:Catering			$100.00
   Liabilities:Daniel Angus
 
-2016-04-01 ! ThoughtWorks
+2016-04-01 * ThoughtWorks
   Liabilities:Daniel Angus	$190.21
   Income:Sponsorship:ThoughtWorks
 
 2016-04-27 * Dominos Pizza
-  Expenses:Catering			$97.50
+  Expenses:Catering			$97.60
   Liabilities:Daniel Angus
 
 2016-04-27 * Bottlo
   Expenses:Catering			$109.99
   Liabilities:Simon Elvery
 
-2016-05-02 ! ThoughtWorks
+2016-05-02 * ThoughtWorks
   Liabilities:Daniel Angus	$207.59
   Income:Sponsorship:ThoughtWorks
 
@@ -70,10 +70,6 @@
   Expenses:Catering			$7.92
   Liabilities:Simon Elvery
 
-2016-06-17 ! ThoughtWorks
-  Liabilities:Daniel Angus	$282.27
-  Income:Sponsorship:ThoughtWorks
-
 2016-06-17 * hub4101
   Liabilities:Simon Elvery 	$300.00
   Income:Sponsorship:hub4101
@@ -91,10 +87,6 @@
   Liabilities:Simon Elvery	$300.00
   Income:Sponsorship:hub4101
 
-2016-07-21 * ThoughtWorks
-  Liabilities:Daniel Angus	$158.34
-  Income:Sponsorship:ThoughtWorks
-
 2016-07-26 * Office Works — display adapters
   Expenses:AV Equipment		$66.71
   Liabilities:Simon Elvery
@@ -110,6 +102,14 @@
 2016-07-27 * Dominos Pizza
   Expenses:Catering			$135.30
   Liabilities:Daniel Angus
+
+2016-08-04 * ThoughtWorks
+  Liabilities:Daniel Angus	$282.27
+  Income:Sponsorship:ThoughtWorks
+
+2016-08-04 * ThoughtWorks
+  Liabilities:Daniel Angus	$158.34
+  Income:Sponsorship:ThoughtWorks
 
 2016-08-10 * hub4101
   Liabilities:Simon Elvery 	$300.00
@@ -138,3 +138,8 @@
 2016-09-06 ! ThoughtWorks
   Liabilities:Daniel Angus	$268.44
   Income:Sponsorship:ThoughtWorks
+
+2016-09-29 * Dominoes Pizza
+  Expenses:Catering         $172.10
+  Liabilities:Daniel Angus
+  

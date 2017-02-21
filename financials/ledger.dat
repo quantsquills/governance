@@ -119,7 +119,7 @@
   Income:Sponsorship:hub4101
 
 2016-08-22 ! ThoughtWorks
-  Liabilities:Daniel Angus	$200.25
+  Liabilities:Unknown	$200.25
   Income:Sponsorship:ThoughtWorks
 
 2016-08-24 * Dominos Pizza
@@ -139,10 +139,41 @@
   Income:Sponsorship:hub4101
 
 2016-09-06 ! ThoughtWorks
-  Liabilities:Daniel Angus	$268.44
+  Liabilities:Unknown	$268.44
   Income:Sponsorship:ThoughtWorks
 
 2016-09-29 * Dominoes Pizza
   Expenses:Catering         $172.10
   Liabilities:Daniel Angus
+
+2016-10-26 * BWS
+  Expenses:Catering			$24.99
+  Liabilities:Simon Elvery
+
+2016-10-26 * Greystone Bar and Cellar
+  Expenses:Catering			$156.90
+  Liabilities:Simon Elvery
   
+2016-10-26 * Coles West End
+  Expenses:Catering			$50.53
+  Liabilities:Simon Elvery
+  
+2016-11-13 * IGA South Brisbane
+  Expenses:Catering 		$3.96
+  Liabilities:Simon Elvery
+
+2016-11-13 * Dominos Pizza
+  Expenses:Catering 		$209.95
+  Liabilities:Simon Elvery
+
+2016-11-29 ! ThoughtWorks
+  Liabilities:Simon Elvery	$692.93
+  Income:Sponsorship:ThoughtWorks
+
+2016-11-29 * Dominos Pizza
+  Expenses:Catering 		$129.30
+  Liabilities:Daniel Angus
+  
+2016-12-02 * Dominos Pizza
+  Expenses:Catering 		$195.95
+  Liabilities:Daniel Angus

@@ -234,3 +234,119 @@
 2017-03-15 * Deposit for The Loft venue hire (catering)
   Expenses:Catering			$100.00
   Assets:Cash at bank
+  
+2017-03-27 * Transfer to other Bank NetBank 
+  Expenses:Speaker	$270 
+  Assets:Cash at bank
+  
+2017-04-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-04-28 * Melbourne Hotel Catering (drinks) 
+  Expenses:Catering	$60.99 
+  Assets:Cash at bank
+  
+2017-04-28 * Melbourne Hotel Catering (drinks) 
+  Expenses:Catering	$66 
+  Assets:Cash at bank
+  
+2017-05-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-05-02 * IGA South Brisbane 
+  Expenses:Catering	$10.21 
+  Assets:Cash at bank
+  
+2017-05-02 * Dominos Pizza 
+  Expenses:Catering	$88.7 
+  Assets:Cash at bank
+  
+2017-05-16 * Peripherals 
+  Expenses:Catering	$21.8 
+  Assets:Cash at bank
+  
+2017-05-25 * Greystone Bar (drinks) 
+  Expenses:Catering	$76.95 
+  Assets:Cash at bank
+  
+2017-05-26 * Invoice 3 
+  Assets:Accounts Receivable:hub4101	$300 
+  Income:Sponsorship:hub4101
+  
+2017-05-26 * Invoice 2 
+  Assets:Accounts Receivable:hub4101	$300 
+  Income:Sponsorship:hub4101
+  
+2017-05-27 * IGA South Brisbane 
+  Expenses:Catering	$4 
+  Assets:Cash at bank
+  
+2017-05-27 * Dominos Pizza 
+  Expenses:Catering	$171 
+  Assets:Cash at bank
+  
+2017-06-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-06-20 * Coles 
+  Expenses:Catering	$28 
+  Assets:Cash at bank
+  
+2017-06-20 * BWS 
+  Expenses:Catering	$55 
+  Assets:Cash at bank
+  
+2017-07-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-07-08 * Dominos Pizza 
+  Expenses:Catering	$89.65 
+  Assets:Cash at bank
+  
+2017-07-10 * Thoughtworks (Mar-Apr events) 
+  Assets:Accounts Receivable:hub4101	$575.9 
+  Income:Sponsorship:ThoughtWorks
+  
+2017-07-27 * Greystone Bar (drinks) 
+  Expenses:Catering	$59.9 
+  Assets:Cash at bank
+  
+2017-07-27 * Greystone Bar (drinks) 
+  Expenses:Catering	$100 
+  Assets:Cash at bank
+  
+2017-07-29 * Dominos Pizza 
+  Expenses:Catering	$198.95 
+  Assets:Cash at bank
+  
+2017-07-29 * IGA South Brisbane 
+  Expenses:Catering	$4.19 
+  Assets:Cash at bank
+  
+2017-08-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-08-03 * Invoice 4 
+  Assets:Accounts Receivable:hub4101	$600 
+  Income:Sponsorship:hub4101
+  
+2017-09-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank
+  
+2017-09-30 * IGA South Brisbane 
+  Expenses:Catering	$23.95 
+  Assets:Cash at bank
+  
+2017-09-30 * Dominos Pizza 
+  Expenses:Catering	$196.75 
+  Assets:Cash at bank
+  
+2017-10-01 * Account Fee 
+  Expenses:Banking	$10 
+  Assets:Cash at bank

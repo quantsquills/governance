@@ -62,7 +62,7 @@
   Liabilities:Daniel Angus
 
 2016-05-25 * Coles Fairfield
- Expenses:Catering 			$41.00
+ Expenses:Catering 			$17.10
  Liabilities:Simon Elvery
 
 2016-05-25 * BWS
@@ -118,10 +118,6 @@
   Liabilities:Simon Elvery 	$300.00
   Income:Sponsorship:hub4101
 
-2016-08-22 ! ThoughtWorks
-  Liabilities:Unknown	$200.25
-  Income:Sponsorship:ThoughtWorks
-
 2016-08-24 * Dominos Pizza
   Expenses:Catering			$141.30
   Liabilities:Daniel Angus
@@ -138,9 +134,9 @@
   Liabilities:Simon Elvery	$300
   Income:Sponsorship:hub4101
 
-2016-09-06 ! ThoughtWorks
-  Liabilities:Unknown	$268.44
-  Income:Sponsorship:ThoughtWorks
+2016-09-09 * Application for incorporation
+  Expenses:Administration   $148.00
+  Liabilities:Simon Elvery
 
 2016-09-29 * Dominoes Pizza
   Expenses:Catering         $172.10
@@ -153,11 +149,11 @@
 2016-10-26 * Greystone Bar and Cellar
   Expenses:Catering			$156.90
   Liabilities:Simon Elvery
-  
+
 2016-10-26 * Coles West End
   Expenses:Catering			$50.53
   Liabilities:Simon Elvery
-  
+
 2016-11-13 * IGA South Brisbane
   Expenses:Catering 		$3.96
   Liabilities:Simon Elvery
@@ -166,14 +162,75 @@
   Expenses:Catering 		$209.95
   Liabilities:Simon Elvery
 
-2016-11-29 ! ThoughtWorks
+2016-11-29 * ThoughtWorks
   Liabilities:Simon Elvery	$692.93
   Income:Sponsorship:ThoughtWorks
 
 2016-11-29 * Dominos Pizza
   Expenses:Catering 		$129.30
   Liabilities:Daniel Angus
-  
+
 2016-12-02 * Dominos Pizza
   Expenses:Catering 		$195.95
   Liabilities:Daniel Angus
+
+2016-12-16 * ThoughtWorks December event
+  Liabilities:Simon Elvery	$277.90
+  Income:Sponsorship:ThoughtWorks
+
+2017-01-17 * Incorporation certificate
+  Expenses:Administration   $22.40
+  Liabilities:Simon Elvery
+
+2017-02-26 * BWS & Coles supplies for Feb event
+  Expenses:Catering			$119.00
+  Expenses:Catering			$12.60
+  Liabilities:Simon Elvery
+
+2017-02-28 * IGA
+  Expenses:Catering     $4
+  Liabilities:Simon Elvery
+
+2017-02-28 * Dominoes
+  Expenses:Catering     $159.20
+  Liabilities:Daniel Angus
+
+2017-03-02 * ThoughtWorks
+  Liabilities:Simon Elvery	$268.44
+  Income:Sponsorship:ThoughtWorks
+
+2017-03-02 * ThoughtWorks
+  Liabilities:Simon Elvery	$200.25
+  Income:Sponsorship:ThoughtWorks
+
+2017-03-02 * ThoughtWorks
+  Liabilities:Simon Elvery	$172.10
+  Income:Sponsorship:ThoughtWorks
+
+2017-03-02 * hub4101 November & December (INV44)
+  Liabilities:Simon Elvery	$600.00
+  Income:Sponsorship:hub4101
+
+2017-03-02 * Clear loan from Simon Elvery
+  Assets:Cash at bank       $2485.31
+  Liabilities:Simon Elvery
+
+2017-03-03 * Invoice 001
+  Assets:Accounts Receivable:hub4101  $300
+  Income:Sponsorship:hub4101
+
+2017-03-03 * Expenses Claim
+  Assets:Accounts Receivable:ThoughtWorks  $294.80
+  Income:Sponsorship:ThoughtWorks
+
+2017-03-06 * Clear loan from Daniel Angus
+  Assets:Cash at bank     -$762.24
+  Liabilities:Daniel Angus
+
+2017-03-06 * Clear loan from Simon Elvery
+  Assets:Cash at bank       -$151.10
+  Liabilities:Simon Elvery
+
+2017-03-15 * Deposit for The Loft venue hire (catering)
+  Expenses:Catering			$100.00
+  Assets:Cash at bank

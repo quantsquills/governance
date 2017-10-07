@@ -1,9 +1,8 @@
 ; This is the general ledger.
 
-2017-06-30 Opening Balances
+2017-06-30 * Opening Balances
     Assets:Cash at bank                     $1784.12
     Retained earnings
-
 
 2017-07-01 * Account Fee
     Expenses:Banking                          $10.00

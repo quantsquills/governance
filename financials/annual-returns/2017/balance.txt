@@ -1,0 +1,12 @@
+BALANCE SHEET - QUANTS AND QUILLS INCORPORATED
+As at 30 June 2017
+
+Assets
+    Cash at bank                 1784.12
+
+Liabilities                          nil
+
+Equity
+    Retained earnings           (1784.12)
+                                 -------
+                                       0

@@ -1,0 +1,95 @@
+; An archived ledger for financial year 2015-2016
+
+2016-02-18 * Wine Market
+    Expenses:Catering                         $71.82
+    Liabilities:Simon Elvery
+
+2016-02-23 * Coles West End
+    Expenses:Catering                         $31.45
+    Liabilities:Simon Elvery
+
+2016-02-23 * BWS West End
+    Expenses:Catering                         $64.00
+    Liabilities:Simon Elvery
+
+2016-02-24 * Dominos Pizza
+    Expenses:Catering                         $94.65
+    Liabilities:Daniel Angus
+
+2016-02-24 * Donations from first event
+    Assets:Cash                               $66.55
+    Income:Donations
+
+2016-02-24 * Repayment on loan
+    Liabilities:Simon Elvery                  $66.55
+    Assets:Cash
+
+2016-03-23 * Dominos Pizza
+    Expenses:Catering                         $78.75
+    Liabilities:Daniel Angus
+
+2016-03-23 * IGA South Brisbane
+    Expenses:Catering                          $8.54
+    Expenses:Stationary                        $2.92
+    Liabilities:Simon Elvery
+
+2016-03-23 * Semi-pro brewing
+    Expenses:Catering                        $100.00
+    Liabilities:Daniel Angus
+
+2016-04-01 * ThoughtWorks
+    Liabilities:Daniel Angus                 $190.21
+    Income:Sponsorship:ThoughtWorks
+
+2016-04-27 * Dominos Pizza
+    Expenses:Catering                         $97.60
+    Liabilities:Daniel Angus
+
+2016-04-27 * Bottlo
+    Expenses:Catering                        $109.99
+    Liabilities:Simon Elvery
+
+2016-05-02 * ThoughtWorks
+    Liabilities:Daniel Angus                 $207.59
+    Income:Sponsorship:ThoughtWorks
+
+2016-05-02 * hub4101
+    Liabilities:Simon Elvery                 $300.00
+    Income:Sponsorship:hub4101
+
+2016-05-25 * Dominos Pizza
+    Expenses:Catering                        $146.25
+    Liabilities:Daniel Angus
+
+2016-05-25 * Coles Fairfield
+    Expenses:Catering                         $17.10
+    Liabilities:Simon Elvery
+
+2016-05-25 * BWS
+    Expenses:Catering                        $111.00
+    Liabilities:Simon Elvery
+
+2016-05-25 * IGA South Brisbane
+    Expenses:Catering                          $7.92
+    Liabilities:Simon Elvery
+
+2016-06-17 * hub4101
+    Liabilities:Simon Elvery                 $300.00
+    Income:Sponsorship:hub4101
+
+2016-06-29 * Dominos Pizza
+    Expenses:Catering                        $150.25
+    Liabilities:Daniel Angus
+
+2016-06-29 * IGA South Brisbane
+    Expenses:Catering                          $4.13
+    Expenses:Catering                          $3.96
+    Liabilities:Simon Elvery
+
+2016-06-30 * Closing entries
+    Expenses:Catering                      $-1097.41
+    Expenses:Stationary                       $-2.92
+    Income:Donations                          $66.55
+    Income:Sponsorship:ThoughtWorks          $397.80
+    Income:Sponsorship:hub4101               $600.00
+    Retained earnings

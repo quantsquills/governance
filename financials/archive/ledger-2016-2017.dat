@@ -190,8 +190,8 @@
     Expenses:Catering                         $88.70
     Assets:Cash at bank
 
-2017-05-16 * Peripherals
-    Expenses:Catering                         $21.80
+2017-05-16 * Parking
+    Expenses:Speakers                         $21.80
     Assets:Cash at bank
 
 2017-05-14 * Invoice 3
@@ -238,7 +238,8 @@
     Expenses:AV Equipment                    $-66.71
     Expenses:Administration                 $-170.40
     Expenses:Banking                         $-30.00
-    Expenses:Catering                      $-2659.82
+    Expenses:Catering                      $-2638.02
+    Expenses:Speakers                        $-21.80
     Income:Sponsorship:ThoughtWorks         $2347.03
     Income:Sponsorship:hub4101              $2400.00
     Retained earnings

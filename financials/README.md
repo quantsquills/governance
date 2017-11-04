@@ -15,7 +15,9 @@ The file should follow most of the defaults as per the [ledger documentation](ht
 
 We try to use indentation sensibly to keep the file readable and try to have transactions roughly in date order (though this is unnecessary because transactions are re-ordered by reporting tools built into ledger).
 
-Transactions should be marked as cleared (`*`) or pending (`!`) if that's what they are. See the docs on [transaction state](http://ledger-cli.org/3.0/doc/ledger3.html#Transaction-state).
+Transactions should be marked as cleared (`*`) or pending (`!`) if that's what they are. See the docs on [transaction state](http://ledger-cli.org/3.0/doc/ledger3.html#Transaction-state). For our purposes:
+- `*` (cleared) means it has been reconciled with the bank statement (or doesn't need reconciliation).
+- `!` (pending) means it has been reconciled with a pending transaction on the bank statement.
 
 Reporting
 ---------

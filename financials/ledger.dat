@@ -59,3 +59,31 @@
 2017-10-01 * Account Fee
     Expenses:Banking                          $10.00
     Assets:Cash at bank
+
+2017-10-04 * Invoice 5
+    Assets:Accounts Receivable:hub4101       $900.00
+    Income:Sponsorship:hub4101
+
+2017-10-10 * Dreamhost domain registration
+    Expenses:Website                          $15.46
+    Assets:Cash at bank
+
+2017-10-10 * International transaction fee
+    Expenses:Banking                           $0.46
+    Assets:Cash at bank
+
+2017-10-12 * Invoice 5
+    Assets:Cash at bank                      $900.00
+    Assets:Accounts Receivable:hub4101
+
+2017-10-24 ! Dominos
+    Expenses:Catering                        $120.45
+    Assets:Cash at bank
+
+2017-10-24 ! IGA
+    Expenses:Catering                          $4.19
+    Assets:Cash at bank
+
+2017-10-27 * Invoice 6
+    Assets:Accounts Receivable:hub4101       $300.00
+    Income:Sponsorship:hub4101

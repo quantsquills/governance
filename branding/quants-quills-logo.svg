@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="105px" viewBox="0 0 112 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>quants-quills-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="quants-quills-logo">
+            <g id="Qs" transform="translate(4.000000, 4.000000)">
+                <path d="M41,84 C37.0066692,84 33.1404781,83.4556504 29.4715816,82.4371062 C37.2624895,91.3615514 48.7227796,97 61.5,97 L103.960909,97 L95.0638298,80.5746227 C100.664495,73.375694 104,64.3273715 104,54.5 C104,35.5563895 91.605975,19.5075586 74.4844734,14.0200557 C80.436469,21.3976857 84,30.7826892 84,41 C84,50.9429876 80.6252537,60.097761 74.9586983,67.381383 L83.9604492,84 L41,84 Z" id="Combined-Shape" fill="#AFE3CD"></path>
+                <path d="M72.5633165,67.1695512 C78.4567259,60.0693694 82,50.9484727 82,41 C82,18.3563253 63.6436747,0 41,0 C18.3563253,0 0,18.3563253 0,41 C0,63.6436747 18.3563253,82 41,82 L80.6260986,82.0546875 L72.5633165,67.1695512 Z" id="Combined-Shape-Copy" fill="#FFDEDE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -59,3 +59,11 @@
 2017-10-01 * Account Fee
     Expenses:Banking                          $10.00
     Assets:Cash at bank
+
+2017-10-24 ! Dominos
+    Expenses:Catering                        $120.45
+    Assets:Cash at Bank
+
+2017-10-24 ! IGA
+    Expenses:Catering                          $4.19
+    Assets:Cash at Bank

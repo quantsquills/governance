@@ -87,3 +87,179 @@
 2017-10-27 * Invoice 6
     Assets:Accounts Receivable:hub4101       $300.00
     Income:Sponsorship:hub4101
+
+2017-11-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2017-11-03 * ThoughtWorks
+	Assets:Cash at bank 		 $1132.98
+	Income:Sponsorship:ThoughtWorks
+
+2017-11-07 * Office of Fair Trade
+	Expenses:Administration 		  $53.50 
+	Assets:Cash at bank
+
+2017-11-28 * Dominos Pizza
+	Expenses:Catering 		  $198.95 
+	Assets:Cash at bank
+
+2017-11-28 * IGA
+	Expenses:Catering 		  $14.64 
+	Assets:Cash at bank
+
+2017-12-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2017-12-04 * Personal Reimbursement (Catering)
+	Expenses:Catering 		  $130.98 
+	Assets:Cash at bank
+
+2017-12-04 * Powerhouse
+	Expenses:Catering 		  $295.00 
+	Assets:Cash at bank
+
+2017-12-08 * Hub4101
+	Assets:Cash at bank 		  $300.00 
+	Income:Sponsorship:hub4101
+
+2018-01-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-02-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-02-22 * BWS Online
+	Expenses:Catering 		  $120.00 
+	Assets:Cash at bank
+
+2018-03-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-03-06 * Dominos Pizza
+	Expenses:Catering 		  $119.40 
+	Assets:Cash at bank
+
+2018-04-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-04-05 * Dominos Pizza
+	Expenses:Catering 		  $102.50 
+	Assets:Cash at bank
+
+2018-04-27 * J.Byrd
+	Expenses:Administration 		  $18.34 
+	Assets:Cash at bank
+
+2018-05-01 * Dominos Pizza
+	Expenses:Catering 		  $125.45 
+	Assets:Cash at bank
+
+2018-05-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-05-24 * ThoughtWorks
+	Assets:Cash at bank 		  $344.57 
+	Income:Sponsorship:ThoughtWorks
+
+2018-05-25 * West End Hotel
+	Expenses:Catering 		  $103.98 
+	Assets:Cash at bank
+
+2018-05-29 * Dominos Pizza
+	Expenses:Catering 		  $308.25 
+	Assets:Cash at bank
+
+2018-05-29 * IGA
+	Expenses:Catering 		  $36.27 
+	Assets:Cash at bank
+
+2018-05-29 * IGA
+	Expenses:Catering 		  $9.16 
+	Assets:Cash at bank
+
+2018-06-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-07-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-07-03 * Dominos Pizza
+	Expenses:Catering 		  $130.90 
+	Assets:Cash at bank
+
+2018-07-03 * IGA
+	Expenses:Catering 		  $5.98 
+	Assets:Cash at bank
+
+2018-07-20 * Dan Murphys
+	Expenses:Catering 		  $124.84 
+	Assets:Cash at bank
+
+2018-07-31 * Dominos Pizza
+	Expenses:Catering 		  $200.60 
+	Assets:Cash at bank
+
+2018-07-31 * IGA
+	Expenses:Catering 		  $11.88 
+	Assets:Cash at bank
+
+2018-08-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-08-24 * Swi Wines & Ales
+	Expenses:Catering 		  $72.99 
+	Assets:Cash at bank
+
+2018-08-28 * IGA
+	Expenses:Catering 		  $33.99 
+	Assets:Cash at bank
+
+2018-09-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-09-11 * QQ Domain Renewal
+	Expenses:Administration 		  $20.04 
+	Assets:Cash at bank
+
+2018-09-22 * ThoughtWorks
+	Assets:Cash at bank 		  $925.01 
+	Income:Sponsorship:ThoughtWorks
+
+2018-10-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-10-02 * Dominos Pizza
+	Expenses:Catering 		  $182.35 
+	Assets:Cash at bank
+
+2018-10-02 * IGA
+	Expenses:Catering 		  $2.99 
+	Assets:Cash at bank
+
+2018-11-01 * Account Fee
+	Expenses:Banking 		  $10.00 
+	Assets:Cash at bank
+
+2018-11-02 * Swi Wines & Ales 
+	Expenses:Catering 		  $74.99 
+	Assets:Cash at bank
+
+2018-11-06 * Dominos Pizza
+	Expenses:Catering 		  $225.60 
+	Assets:Cash at bank
+
+2018-11-06 * IGA
+	Expenses:Catering 		  $2.99 
+	Assets:Cash at bank

@@ -4,7 +4,7 @@
 
 ## Minutes
 
-* Date: 7/6/2017
+* Date: 7/6/2018
 * Time: 4:30pm
 * Place: Tippler’s Tap, Grey St, South Brisbane
 * Attendees: Daniel Angus, Simon Elvery, Rosanna Ryan

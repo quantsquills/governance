@@ -2,7 +2,7 @@
 ## Management committee meeting
 ## Minutes
 
-* Date: 6/9/2017
+* Date: 6/9/2018
 * Time: 5:30pm
 * Place: Tippler’s Tap, Grey St, South Brisbane
 * Attendees: Daniel Angus, Simon Elvery, Rosanna Ryan

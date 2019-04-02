@@ -4,7 +4,7 @@
 
 ## Minutes
 
-* Date: 21/3/2017
+* Date: 21/3/2018
 * Time: 7:30pm
 * Place: Video conference on Google Hangouts
 * Attendees: Daniel Angus, Simon Elvery, Rosanna Ryan

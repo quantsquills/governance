@@ -309,7 +309,7 @@ Each subsequent annual general meeting must be held—
  (b) presenting the financial statement and signed statement to the meeting for adoption;  
  (c) electing members of the management committee.
 
-# 35 Notice of general meeting
+## 35 Notice of general meeting
 
 (1) The secretary may call a general meeting of the association.  
 (2) The secretary must give at least 14 days notice of the meeting to each member of the association.  

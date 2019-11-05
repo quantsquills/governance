@@ -187,3 +187,12 @@
 2018-06-01 * Account Fee
 	Expenses:Banking 		  $10.00 
 	Assets:Cash at bank
+
+2018-06-30 * Closing entries
+	Expenses:Administration		-$71.84
+	Expenses:Banking		-$120.46
+	Expenses:Catering		-$2362.61
+	Expenses:Website		-$15.46
+	Income:Sponsorship:ThoughtWorks		$2053.45
+	Income:Sponsorship:hub4101		$2100
+	Retained earnings	

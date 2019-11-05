@@ -1,0 +1,16 @@
+INCOME STATEMENT - QUANTS AND QUILLS INCORPORATED
+For the year ended 30 June 2019
+
+                                        Debit ($)        Credit ($)
+Income                                                       925.01
+                                                            -------
+                                                            
+Expenses
+    Administration                          75.39
+    Banking                                120.00
+    Catering                              2244.00
+                                                            -------
+Total expenses                                             (2439.39)
+                                                            -------
+Net income                                                 (1514.38)
+                                                            =======

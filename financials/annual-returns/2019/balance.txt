@@ -1,0 +1,12 @@
+BALANCE SHEET - QUANTS AND QUILLS INCORPORATED
+As at 30 June 2019
+
+Assets
+    Cash at bank                 1852.82
+
+Liabilities                          nil
+
+Equity
+    Retained earnings           (1852.82)
+                                 -------
+                                       0

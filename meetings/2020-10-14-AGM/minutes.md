@@ -12,6 +12,16 @@ He moved that the 2019 AGM minutes be accepted, Katie seconded and the motion wa
 
 Simon delivered the president's report.
 
+> I'd like to start by acknowledging the traditional owners of the lands on which we're meeting tonight. I think we're all on Turrbal and/or Yuggera country. I pay my respects to elders and acknowledge that sovereignty was never ceded.
+>
+> I also want to acknowledge right off the bat what a challenging year it's been. In our first meetup of 2020 the panel for our discussion on what the news agenda would hold in 2020 got it exactly right when they predicted coronavirus would dominate the year. 
+>
+>Despite the challenges, we've managed to hold six events (including end of year drinks) since the previous AGM in November. Three in person and three online.
+>
+>I think it's fair to say many of our well intended plans stemming from discussion at last year's AGM were derailed by the challenges of running meetup events during a pandemic as well as the individual stresses members of the management committee have felt as we continue to adjust to the new ways of working and living in the world. 
+>
+>As we continue to adjust, it's exciting that we'll be running our first in-person event since February. Here's hoping we can make 2021 a rebuilding year.
+
 ## Financials
 
 Dan presented the financial report for 2019-2020.

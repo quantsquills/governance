@@ -1,0 +1,35 @@
+; An archived ledger for financial year 2021-2022
+
+2021-06-30 * Opening Balances
+    Assets:Cash at bank                     $1094.41
+    Retained earnings
+
+2021-09-24 * 1Password
+    Expenses:Administration                   $13.70
+    Expenses:Banking                           $0.41
+    Assets:Cash at bank
+
+2021-09-25 * 1Password
+    Expenses:Administration                   $13.60
+    Expenses:Banking                           $0.41
+    Assets:Cash at bank
+
+2021-10-22 * Cloudflare
+    Expenses:Website                          $11.57
+    Expenses:Banking                           $0.35
+    Assets:Cash at bank
+
+2022-01-12 * Office of Fair Trading
+    Expenses:Administration                   $57.60
+    Assets:Cash at bank
+
+2022-02-08 * 1Password
+    Expenses:Administration                  $112.07
+    Expenses:Banking                           $3.36
+    Assets:Cash at bank
+
+2022-06-30 * Closing entries
+    Expenses:Administration                 $-196.97
+    Expenses:Banking                          $-4.53
+    Expenses:Website                         $-11.57
+    Retained earnings

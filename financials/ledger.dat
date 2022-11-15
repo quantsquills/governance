@@ -96,6 +96,13 @@
   Expenses:Catering		$104.69
   Assets:Cash at bank
 
+2020-06-30 * Closing entries
+  Expenses:Administration    $-56.60
+  Expenses:Banking   $-56.33
+  Expenses:Catering    $-1414.44
+  Income:Sponsorship:ThoughtWorks   $859.47
+  Retained earnings
+
 2020-10-31 * 7-Eleven
   Expenses:Catering		$11.50
   Assets:Cash at bank

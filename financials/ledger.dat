@@ -55,3 +55,10 @@
 2021-05-01 * Return DISPUTE ADJUSTMENT AUS
   Assets:Cash at bank   $14.86
   Expenses:Fraudulent Expenses
+
+2021-06-30 * Closing entries
+  Expenses:Administration        $-92.31
+  Expenses:Banking                $-1.04
+  Expenses:Catering              $-11.50
+  Expenses:Fraudulent Expenses    $14.34
+  Retained earnings

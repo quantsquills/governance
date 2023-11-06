@@ -2,13 +2,11 @@ This report is *automatically generated* you should not edit it manually.
 # Account balances
 
 ```txt
-            $1173.42  Assets:Cash at bank
-            $1538.87  Expenses
-              $56.60    Administration
-              $56.33    Banking
-            $1425.94    Catering
-            $-859.47  Income:Sponsorship:ThoughtWorks
-           $-1852.82  Retained earnings
+             $865.44  Assets:Cash at bank
+              $15.90  Expenses
+               $0.46    Banking
+              $15.44    Website
+            $-881.34  Retained earnings
 --------------------
                    0
 ```
@@ -20,4 +18,4 @@ This report is *automatically generated* you should not edit it manually.
 
 
 
-*Generated on Tue 12 Jan 2021 15:22:58 AEST*.
+*Generated on Mon 11 Nov 2023 16:03:58 AEST*.

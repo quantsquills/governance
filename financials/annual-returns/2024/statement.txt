@@ -1,27 +1,28 @@
-QUANTS AND QUILLS INCORPORATED – FINANCIAL STATEMENTS FOR THE 2023 ANNUAL GENERAL MEETING
+QUANTS AND QUILLS INCORPORATED – FINANCIAL STATEMENTS FOR THE 2024 ANNUAL GENERAL MEETING
 
 INCOME STATEMENT
-For the financial year: 1 July 2022 - 30 June 2023
+For the financial year: 1 July 2023 - 30 June 2024
 
                                         Debit ($)        Credit ($)
 Income                                                         nill
                                                             -------
-Expenses                                     nill
+Expenses
+    Banking                                  0.46
+    Website                                 15.44
                                                             -------
-Total expenses                                                 nill
+Total expenses                                               (15.90)
                                                             -------
-Net income                                                     nill
+Net income                                                   (15.90)
                                                             =======
 
-
 BALANCE SHEET
-As at 30 June 2023
+As at 30 June 2024
 
 Assets
-    Cash at bank                  881.34
+    Cash at bank                  865.44
 Liabilities                          nil
 Equity
-    Retained earnings            (881.34)
+    Retained earnings            (865.44)
                                  -------
                                        0
 

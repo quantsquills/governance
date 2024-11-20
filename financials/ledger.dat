@@ -1,10 +1,5 @@
 ; This is the general ledger.
 
-2022-06-30 Opening Balances
-    Assets:Cash at bank                      $881.34
+2024-06-30 Opening Balances
+    Assets:Cash at bank                      $865.44
     Retained earnings
-
-2023-09-29 * Cloudflare
-    Expenses:Website                          $15.44
-    Expenses:Banking                           $0.46
-    Assets:Cash at bank

@@ -1,0 +1,15 @@
+; An archived ledger for financial year 2023-2024
+
+2022-06-30 Opening Balances
+    Assets:Cash at bank                      $881.34
+    Retained earnings
+
+2023-09-29 * Cloudflare
+    Expenses:Website                          $15.44
+    Expenses:Banking                           $0.46
+    Assets:Cash at bank
+
+2024-06-30 * Closing entries
+    Expenses:Website                         $-15.44
+    Expenses:Banking                          $-0.46
+    Retained earnings

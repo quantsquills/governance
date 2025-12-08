@@ -1,26 +1,17 @@
 ; This is the general ledger.
 
-2024-06-30 Opening Balances
-    Assets:Cash at bank                      $865.44
+2025-06-30 Opening Balances
+    Assets:Cash at bank                      $789.16
     Retained earnings
 
-2024-09-10 * Cloudflare
-    Expenses:Website  $15.68
-    Expenses:Banking  $0.55
-    Assets:Cash at bank
-
-2024-11-20 * Office of Fair Trading
-    Expenses:Administration   $60.05
-    Assets:Cash at bank
-
 2025-09-07 * Cloudflare
-    Expenses:Website    $16.09
+    Expenses:Website                          $16.09
     Assets:Cash at bank
 
 2025-09-09 * International transaction fee
-    Expenses:Banking    $0.56
+    Expenses:Banking                           $0.56
     Assets:Cash at bank
 
 2025-12-08 ! Office of Fair Trading
-    Expenses:Administration   $62.10
+    Expenses:Administration                   $62.10
     Assets:Cash at bank
